@@ -6,4 +6,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Abhi-yadav99/Pandas-Pratice-LeetCode-/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/Abhi-yadav99/Pandas-Pratice-LeetCode-/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 <!---LeetCode Topics End-->
