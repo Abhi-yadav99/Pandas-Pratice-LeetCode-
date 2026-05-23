@@ -1,1 +1,9 @@
 # Pandas-Pratice-LeetCode-
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Abhi-yadav99/Pandas-Pratice-LeetCode-/tree/main/0627-swap-sex-of-employees/) | Easy |
+<!---LeetCode Topics End-->
